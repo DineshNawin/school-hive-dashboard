@@ -19,8 +19,13 @@ import {
 const data = {
   navMain: [
     {
+      title: "Home",
+      url: "/dashboard",
+      items: [],
+    },
+    {
       title: "Staff Management",
-      url: "#",
+      url: "/dashboard/staff",
       items: [
         {
           title: "Teachers",
@@ -37,11 +42,6 @@ const data = {
     {
       title: "Students",
       url: "/dashboard/students",
-      items: [],
-    },
-    {
-      title: "Setting",
-      url: "#",
       items: [],
     },
   ],

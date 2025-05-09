@@ -1,3 +1,3 @@
 export default function DashBoardPage(){
-  return ('welcome to DAshboard')
+  return ('Welcome to Dashboard')
 } 
